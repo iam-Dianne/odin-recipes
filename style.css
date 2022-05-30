@@ -1,0 +1,32 @@
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size:40px;
+    text-align: center;
+    color:rgb(65, 65, 65);
+}
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size:30px;
+    text-align: center;
+    color:rgb(65, 65, 65);
+}
+
+.regular-text{
+    font-family: "Lato", sans-serif;
+    font-size:24px;
+    color:gray;
+    text-align:center;
+}
+.comment-text{
+    font-family: "Lato", sans-serif;
+    font-size:18px;
+    color:gray;
+    text-align:center;
+}
+.index-photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
