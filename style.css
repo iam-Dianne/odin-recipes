@@ -13,8 +13,8 @@ h2 {
 
 .regular-text{
     font-family: "Lato", sans-serif;
-    font-size:24px;
-    color:gray;
+    font-size:18px;
+    color:rgb(65, 65, 65);
     text-align:center;
 }
 .comment-text{
@@ -27,6 +27,27 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 85%;
 }
-
+img{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:70%;
+}
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+    font-size:18px;
+    color:gray;
+    font-family:"Lato",sans-serif;
+}
+ol {
+    display:table;
+    margin-left:20%;
+    margin-right:18%;
+    font-size:18px;
+    color:gray;
+    font-family:"Lato",sans-serif;
+}
